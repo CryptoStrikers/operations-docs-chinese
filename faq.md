@@ -1,8 +1,8 @@
-# CryptoStrikers FAQ
+# 加密球星常见问题
 
-## Understanding CryptoStrikers
+## 了解加密球星
 
-**What is CryptoStrikers?**
+**什么是加密球星?**
 
 CryptoStrikers is a new type of digital trading game that allows you to collect, trade, and win rare sports card collectibles. Each player card is 100% owned by you; it cannot be replicated, taken away, or destroyed.
 
