@@ -161,71 +161,71 @@ Gas费用通常用gwei 来表示 (1百万gwei = 1 ether/ETH).
 
 可以。取消上架，你只需要前往活动中心，找到你想要取消的那条交易，然后点击取消按钮即可。交易的上下架信息均记录在区块链上，因此你需要支付一定的Gas费用才能下架成功。如果在下架的订单完成之前有其他玩家成功购买了你的球员，那么你的卡牌将不会返回。
 
-## Trading
+## 交换
 
-**How do I create a trade offer?**
+**怎么发起交换请求?**
 
-Go to the Trade Center. If you know the wallet address of your trading partner, enter it in the field provided. Pick a player card that you own and wish to trade. If you’ve entered your trading partner’s wallet info, you will be able to choose from one of the cards that user owns. If not, you can select one of the cards available in any collection that you wish to acquire. Once you click ‘submit’ and the transaction has been mined/recorded on the blockchain, your offer will be officially created.
+前往交换中心。如果你知道交换接收方的钱包地址，请输入。选择一张你希望交换出去的球员。如果你输入了交易接收方的地址，你就能够从对方的球员卡牌列表中选择一张自己想要交换获得的卡牌。如果没输入的话，请任意选择一张。点击提交并且交易确认后，你的交换请求就会生成。
 
-**How do I share my trade offer with others?**
+**怎么把交换请求分享给其他玩家?**
 
-Once you ‘submit’ your trade offer, you will receive a ‘trade offer link’. You can then share this URL wherever and however you like - via email, text, social media posts, messenger apps, etc. When a prospective trading partner navigates to your trade offer URL, they will see your offer on a unique page and can accept it from that location.
+当你提交交易请求后，你会收到一条交易请求链接。你可以将这条链接分享出去，邮箱，短信亦或是社群都可以。当有意向的玩家点击打开你的链接后，对方就能看到你发起的交换请求并确认交换。
 
-**How can I find trading partners?**
+**我要怎么找到有交换意向的玩家?**
 
-You can post a message on our [subreddit](https://www.reddit.com/r/cryptostrikers) or our #trading channel on [Discord](https://discord.gg/7CSBBBb) to find trading partners. You can also contact people you know directly through whatever communication method you prefer.
+你可以在我们的 [subreddit](https://www.reddit.com/r/cryptostrikers) 或者 [Discord](https://discord.gg/7CSBBBb) 的交换频道找到有交换意向的玩家。你也可以通过其他各种方式和别的玩家直接联系。
 
-**How do I accept a trade offer that I’ve received from another user?**
+**我要怎么接受其他玩家发给我的交换请求?**
 
-Click the trade offer link, and you will be directed to a unique page that will display the cards in the proposed trade. You can then click the ‘Accept’ button to execute the trade. 
+点击交易请求链接，在打开的页面中，你会看到交换详情。如果你想接受交换的话，点击接受按钮即可执行交换。
 
-**Can I cancel a trade offer that I’ve created?**
+**我要怎么取消我创建的交易请求?**
 
-Yes. To cancel a trade offer, go to your Activity Feed, locate the trade offer you wish to cancel, then click ‘Cancel’ button next to the transaction. Creating a trade is a transaction on the blockchain, so you must pay gas to cancel the sale. Your card is only returned to you if your cancel order is processed prior to another user’s trade acceptance being processed.
+你可以前往活动中心，找到想要取消的交易请求，然后点击旁边的取消即可。因为交换的提交和取消都记录在区块链中，所以你还需要支付一定的Gas费用。如果在取消的订单完成之前有其他玩家完成了交换，那么你的卡牌将不会返回。
 
-**Why can’t I create trades with multiple players?**
+**我为什么不能一次交换多张卡牌?**
 
-That functionality is not set up in the initial release of CryptoStrikers. It is a feature that we’d like to offer in a future iteration of the game. (Do you have other ideas on features we should offer? Please contact us at feedback@cryptostrikers.com or on our [Discord](https://discord.gg/7CSBBBb) channel.)
+加密球星暂不支持一次性交换多张卡牌。这项功能我们会考虑在以后的版本中加入。 (如果你有其他的想法和建议请通过邮箱 feedback@cryptostrikers.com 或 [Discord](https://discord.gg/7CSBBBb) 联系我们。)
 
-## Award Giveaways/Referral Program
+## 奖励派送/邀请返利
 
-**What are the different Award Giveaways offered?**
+**都有什么奖励派送?**
 
-There are 2 awards that all CryptoStrikers users are eligible to win.
+游戏中总共有2个奖励派送活动，玩家可以参与。
 
-**Qualifications**
+**资格**
 
-(1) Originals  - collection of all 100 individual player cards from set
+(1) 原创卡牌 - 完成全部100张原创球员卡牌套装。
 
-(2) Iconics - collection of all 32 individual player cards from set
+(2) 标志性卡牌 - 完成全部32张标志性球员卡牌套装。
 
-Users who qualify for any of the contest prizes (users can win any or all of the prizes) will be eligible for the following prize awards.
+拥有以上参与的资格的玩家将能获得对应的全部奖励。
 
-**Awards**
+**奖品**
 
-(1) Originals 100 - 1 high quality poster print of any Originals player, either 11” x 17” (24 x 43 cm) or 18” x 24” (46 x 61 cm)
+(1) 100张原创卡牌 - 任意原创球员的高质量海报一张，11” x 17” (24 x 43 cm) 或 18” x 24” (46 x 61 cm)。
 
-(2) Iconics 32 - 1 high quality poster print of any Originals player, either 11” x 17” (24 x 43 cm) or 18” x 24” (46 x 61 cm)
+(2) 32张标志性卡牌 - 任意原创球员的高质量海报一张，11” x 17” (24 x 43 cm) or 18” x 24” (46 x 61 cm)。
 
-The Giveaway Period ends at the end of July 20, 2018. We will endeavor to send all the Award posters within thirty business days of the conclusion of the Giveaway Period on July 25, 2018.
+活动将于2018年7月20日停止评选，并与2018年7月25日正式结束。奖品会在活动结束后30个工作日内完成发放。
 
-**What are the benefits of joining the Referral Program?**
+**为什么要参与邀请返利?**
 
-Users who join the Referral Program can earn up to 8 Iconics cards as awards. In addition, all Referral Program participants can earn Referral Bonuses - 10% of revenue from card pack purchases made by referred users.
+参与邀请返利的玩家不仅可获得最多8张标志性球员卡牌，还能获得10%的好友邀请返利。
 
-**Can I track my referrals?**
+**怎么查看邀请的好友?**
 
-Yes, check the ‘Earn Award’ tab on your Profile page. This page will show you whether or not your invitees have completed the signup process, and whether or not they have bought packs required for you to earn your Iconics cards. You will also see your accrued Referral Bonuses.
+你可以在个人信息页面点击获得奖励页签。在那里你能够看到你邀请的好友是否完成了注册以及是否购买了卡包。你也能看到准确的邀请返利金额。
 
-**Who can I refer?**
+**我能邀请谁?**
 
-You can refer anyone who is age 13 or older - family, friends, colleagues, neighbours, acquaintances.
+你可以邀请任何13岁以上的人，家人、朋友、同事、邻居或者熟人都可以。
 
-You are eligible to earn multiple rewards per individual referred. If the person you have invited has already signed up for CryptoStrikers and bought a pack, that person will not be a qualified referral from whom you can earn rewards.
+邀请的好友数量越多，获得邀请返现的机会越大。但是如果在你发出邀请之前，对方已经完成了注册和购买卡包，那么对方的邀请将无效。
 
-**What are the restrictions for the Referral Program?**
+**邀请返利有什么限制?**
 
-You can review the Referral Program eligibility requirements and rules here.
+你可以在这里查看邀请返利的条件和规则。
 
 ## Other
 
