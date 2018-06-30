@@ -117,50 +117,49 @@ Gas费用通常用gwei 来表示 (1百万gwei = 1 ether/ETH).
 
 加密球星使用了区块链技术，基于以太坊运行。相对而言这是一项新的技术，很多地方还不完善，因此显得相对复杂。相信等以太坊发展成熟，会给玩家带来更好的游戏体验。
 
-## Buying and selling
+## 购买和出售
 
-**How do I buy CryptoStrikers cards?**
+**如何购买加密球星卡牌?**
 
-Cards can be bought in packs of 4 by going to the ‘Buy Cards’ link. Cards can be bought individually by going to the ‘Marketplace’ and purchasing cards directly from other users.
+卡牌可以通过购买卡包获得，一个卡包中含有4张球员卡牌。点击网页上的购买卡包即可进入购买页面。卡牌也可以通过市场或者交换获得。
 
-**What are the different type of card packs offered for purchase?**
+**卡包有什么不同?**
 
-‘Original’ set cards can be bought via Standard packs using Ether (‘Normal Sale’) or through exchanging a CryptoKitty (‘Exchange Sale’). Iconics cards are available via inserts in ‘Premium’ pack purchases with Ether (‘Premium Sale’). Iconics cards are available on a limited time basis - 1 day max only - and their schedule is announced daily starting on June 14, 2018.
+原创套装卡牌可以通过购买标准卡包获得。标准卡包可以使用以太币购买或者通过Cryptokitties。标志性套装卡牌可以通过高级卡包获得。标志性卡牌只能在特定的时间内获得，最多1天。并且从2018年6月14日开始每天轮换。轮换信息会在网站上公布。
 
-**How do I find out which Iconics card is available in a Premium Sale?**
+**怎么知道哪个标志性球员可以通过高级卡包获得？**
 
-Check the Buy Packs page often or keep any eye out for announcements via email, and our social accounts, [subreddit](https://www.reddit.com/r/cryptostrikers), and [Discord](https://discord.gg/7CSBBBb).
+请及时查看卡包购买页面或者留意我们邮件、[subreddit](https://www.reddit.com/r/cryptostrikers), 以及[Discord](https://discord.gg/7CSBBBb)的相关公告。
 
-**How do I sell CryptoStrikers cards?**
+**我怎么出售球员卡牌?**
 
-Currently, click the OpenSea link in the Marketplace tab - each of your cards are listed on OpenSea. You can see them by clicking your Account. Click one of the cards you own, and you will see a Sell button to start an auction.
+目前，你可以通过点击市场页面中的OpenSea按钮进行球员卡牌出售。你拥有的所有球员卡牌都会在OpenSea上列出，只需在OpenSea网站上点击账户按钮即可。选择一张球员卡牌并点击就会看到出售按钮。
 
-In the future, CryptoStrikers will launch its own marketplace. There, when you click one of the cards that you own, there will be a button to ‘Sell’ your card on the Card Detail page. 
+不久之后，我们会推出自己的交易市场。敬请期待。
 
-**Can I list multiple cards in a single sale offer?**
+**我能批量出售球员卡牌吗?**
 
-No, we do not support that functionality at this time.
+不可以。加密球星暂时还不支持该功能。
 
-How much does it cost to buy a CryptoStrikers pack or card?
-Standard packs are priced in the ETH equivalent of US$15/pack, while Premium packs are priced in the ETH equivalent of US$30/pack
+购买一个卡包或者一张卡牌需要多少钱？标准卡包相当于$15/个，高级卡包$30/个。
 
-There’s no standard price for an individual card. Users set their own selling price when they sell a given card.
+对于单张球员卡牌并无标准定价。卡牌的价格由玩家自己设定。
 
-**Are there any limitations on buying a pack with a CryptoKitty?**
+**通过Cryptokitties购买卡包有限制吗?**
 
-There are 1,000 packs that may be bought with a CryptoKitty. No such sales will be allowed once this supply runs out. Each user is limited to one such purchase. Any owned CryptoKitty associated with your MetaMask wallet address may be used to make this purchase.
+最多能够通过Cryptokitties购买到1000个卡包。售罄后将再无法购买。每个玩家只能拥有一次机会。只要你拥有的Cryptokitty是和你的MetaMask相关联的，你就可以兑换。
 
-**What should I do if my card isn’t selling?**
+**如果我的球员卡牌卖不出去怎么办?**
 
-Pricing for individual cards will be determined by supply and demand. If your card isn’t selling, you can reduce the sale price at any time or cancel the sale and wait to put the card back on market at a later date. Consider reviewing current market prices for player cards when determining what sale price to set. 
+单个球员卡牌的价格由供求关系决定。如果你的球员卡牌卖不出去，你可以尝试随时调整价格或者等待何时的时机重新上架。在出售时，可以参考下当前市场价再设定价格。
 
-**What is the fee to sell my cards on CryptoStrikers?**
+**出售球员卡牌收手续费吗?**
 
-We do not take any fees from sales transactions on our marketplace. Note that it’s possible to do whatever you want with your card outside of our marketplace without paying us anything. If you do decide to sell your cards on marketplaces outside of CryptoStrikers, please check out any fees before creating a sale listing.
+对于交易市场上的交易，我们不会收取任何手续费。注意，你可以随时在加密球星交易市场之外进行交易。但是如果你决定进行场外交易，请确保其他交易市场是否收取交易费用。
 
-**Can I cancel a sale listing that I’ve created?**
+**我可以取消上架吗?**
 
-Yes. To cancel a sale listing, go to your Activity Feed, locate the sale transaction you wish to cancel, then click ‘Cancel’ button next to the transaction. Creating a sale is a transaction on the blockchain, so you must pay gas to cancel the sale. Your card is only returned to you if your cancel order is processed prior to another user’s buy order being processed.
+可以。取消上架，你只需要前往活动中心，找到你想要取消的那条交易，然后点击取消按钮即可。交易的上下架信息均记录在区块链上，因此你需要支付一定的Gas费用才能下架成功。如果在下架的订单完成之前有其他玩家成功购买了你的球员，那么你的卡牌将不会返回。
 
 ## Trading
 
