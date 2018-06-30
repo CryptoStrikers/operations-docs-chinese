@@ -4,114 +4,118 @@
 
 **什么是加密球星?**
 
-CryptoStrikers is a new type of digital trading game that allows you to collect, trade, and win rare sports card collectibles. Each player card is 100% owned by you; it cannot be replicated, taken away, or destroyed.
+加密球星是一款新的数字资产交易游戏。你能够通过收集，交换获得稀有体育类收藏卡牌。每张球员卡牌都100%归你所有，不可被复制，夺走或者销毁。
 
-**How do I play CryptoStrikers?**
+**加密球星怎么玩?**
 
-The objective of CryptoStrikers is to fully complete collections of the 2 sets of cards available - the Originals and the Iconics. If you complete either (i) one or (ii) both of the collections by the end of July 20, 2018, you will be earn awards.
+在加密球星中，你的目标是完整收集两套原创和标志性球员卡牌。如果在2018年7月20日之前你完整收集了两套或其中一套卡牌，你将获得丰厚奖励。
 
-The Original and Iconics cards can be purchased in packs of 4, individually through the Marketplace, or via trades with other users. The complete sets consist of 100 Originals and 32 Iconics cards. 
+原创和标志性球员卡牌可以通过卡包购买（一个卡包含有4张球员卡），也可以通过市场或者与其他玩家交换获得。一套完整的原创卡牌有100张，而完整的标志性卡牌有32张。
 
-Iconics cards cannot be bought in self-contained packs, but they will be available via Premium Sale inserts starting on June 14, 2018. 24 of the 32 Iconics cards will be available on a rotating daily basis; the other 8 Iconics cards can be acquired via earning Referral Program awards or through the Marketplace.
+标志性卡牌不能通过自有卡包开出。但你可以通过高级卡包获得。高级卡包中的标志性球员自2018年6月14日起，每天轮换，共有24个标志球员卡。另外的8张则通过邀请返利活动获得或者通过市场购买。
 
-Packs of cards will no longer be available for purchase starting on July 16, 2018. Users will be able to continue to buy and sell cards from the Marketplace at that time.
+截止2018年7月16日，卡包将不再出售。但玩家仍可以随时通过市场继续购买或者出售卡牌。
 
-**Does it cost money to play CryptoStrikers?**
+**玩加密球星需要花钱吗?**
 
-Yes. Someone can send you a player card as a gift, but otherwise each player card is available for purchase using the digital currency Ether (ETH).
+是的。除好友赠予外，你需要花费以太币（ETH）购买球员卡牌。
 
-**How many CryptoStrikers do I need to get started?**
+**玩加密球星需要拥有多少球员卡?**
 
-You’re officially in the game with one. However, we recommend starting with buying a pack to start building your collection.
+入门加密球星只需要一张卡牌就可以。但是我们建议你通过购买卡包来完成球员卡牌套装的收集。
 
-**What’s the big deal about CryptoStrikers?**
+**W加密球星有什么特别的地方?**
 
-CryptoStrikers is one of the world’s first games to be built on the Ethereum blockchain. You can buy, sell, or trade your CryptoStrikers cards like traditional collectibles, fully confident that the blockchain will track ownership securely. All transactions and operations relating to the game are verifiable.
+加密球星基于以太坊研发。你可以像传统收藏品一样，购买，出售或者交换你的加密球星卡牌。以太坊区块链会确保你对卡牌的所有权。所有与游戏相关的交易和操作都是可验证的。
 
-Blockchain technology enables the creation of cryptocollectibles like CryptoStrikers cards that address issues with traditional trading card systems:
+区块链技术使得加密收藏品，如加密球星卡牌得以产生，并解决了传统卡牌交易系统存在的问题：
 
-* True Digital Ownership: Your ownership, and transfer of any cryptocollectible, is transparent and traceable via the Ethereum blockchain.
-* Provable Scarcity: Supply and rarity are enforced by an immutable, decentralized ledger, not by a central party that can create new items at will.
-* Trustless Trading: Cryptocollectibles are managed by smart contracts and not a central company. Since the cryptocollectibles are transferrable by nature, they can be exchanged outside of closed ecosystems, thus increasing liquidity with others globally.
-* Extensibility: The CryptoStrikers cards live beyond the CryptoStrikers website. They can be traded on other marketplaces or in other applications that are built. You can send your cards to whomever you wish, play or exchange them whenever you want, and view at any time anywhere..
+* 真正的数字化所有权：你的对任意加密收藏品的所有权和转让，在以太坊区块链上都是透明且可追溯的。
+* 可验证的稀缺性：道具的供给和稀有度由不可变更的去中心化分布式记账系统保证，而不能由任何中心化的团体任意创造。
+* 去信任交易：加密收藏品由智能合约而不是任何中心化公司控制。因为加密收藏品的本质是可转让的，所以它们能够在封闭经济系统之外进行交易。由此增加了全球流动性。
+* 延展性：加密球星卡牌不依赖于加密球星网站。它们可以在其他市场和应用中进行交易。你可以随时将卡牌发送或交易给任何人。
 
-**What is the CryptoStrikers mission statement?**
+**加密球星的宗旨是什么?**
 
-To bring the value of blockchain technology to consumers in ways that unlock new experiences, redefine the meaning of digital ownership, and support the participation of all stakeholders in a decentralized global ecosystem.
+加密的前锋的宗旨是将区块链技术的价值提供给玩家。为玩家带来前所未有的体验，重新定义数字化所有权，并鼓励玩家参与去中心化的全球经济系统。
 
-## Getting started
+## 开始游戏
 
-**What do I need to play CryptoStrikers?**
+**玩加密球星我需要准备什么?**
 
-To get started, you need the following:
+你需要准备以下东西：
 
-(1) Either (i) a computer or laptop running the desktop version of Chrome, Firefox, Opera, or Brave; or (ii) a mobile phone installed with the iOS or Android app for Toshi, Cipher Browser, or Trust Wallet
-(2) The MetaMask digital wallet or compatible digital wallet
-(3) Ether, the form of digital payment accepted on CryptoStrikers
+(1) 电脑或者笔记本用户：请安装谷歌、火狐、Opera或者Brave浏览器。手机用户：请对应下载iOS或安卓版Toshi、Cipher浏览器，或者Trust钱包。
+(2) 然后安装MetaMask钱包。
+(3) 准备好以太币。
 
-**Installing MetaMask, your digital wallet**
+**安装 MetaMask, 你的数字钱包**
 
-We can only distribute card packs to wallets created on MetaMask (and a few other applications - see our guide below). Exchange wallets such as Coinbase or Binance can not be used with CryptoStrikers.
+我们只能将卡包发放到Meta钱包上（其他应用，请查阅下文教程）。加密球星不支持Coinbase和Binance等交易所钱包。
 
-Your digital wallet acts as your login to the CryptoStrikers application. You will need to transfer Ether to your MetaMask digital wallet in order to make any purchases.
+你的数字钱包将作为你在加密球星的登录方式。在进行任何购买之前，你需要先往你的MetaMask中转入一定的以太币。
 
-**_Note:_** The MetaMask wallet acts like a bank account—treat it with respect and make sure you don’t forget your password or the seed words. CryptoStrikers cannot restore your account if you lose your credentials.
+注意: MetaMask钱包相当于你的银行账账户 - 请妥善保管好你的密码和助记词。一旦丢失，加密球星将无法帮你找回。
 
-Here is a [step-by-step guide](https://medium.com/cryptostrikers/getting-started-how-to-install-metamask-4a2d9c18b4cc) to install MetaMask. If video is more your thing, click the image below to watch a video.
+以下是如何安装MetaMask的详细教程。如果你更喜欢视频教程，请点击以下图片观看。
+
+以下是如何安装MetaMask的详细教程。[step-by-step guide](https://medium.com/cryptostrikers/getting-started-how-to-install-metamask-4a2d9c18b4cc). 如果你更喜欢视频教程，请点击以下图片观看。
 
 [![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/metamask.png)](https://www.youtube.com/watch?time_continue=4&v=tfETpi-9ORs)
 
-**Why is MetaMask locked?**
+**为什么我的MetaMask钱包被锁住了?**
 
-MetaMask automatically locks your account after a certain period of time. To unlock MetaMask, simply click on the MetaMask extension and type in your password.
+每隔一段时间MetaMask钱包会自动锁住你的账户。你只需要点击MetaMask钱包，输入密码即可解锁。
 
 ![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/metamask-locked.png)
 
-**Reinstalling MetaMask**
+**重新安装MetaMask钱包**
 
-If you need to reinstall the MetaMask browser extension on your computer or tablet, delete the extension, reinstall it, and import your twelve seed words. You’ll then set the password you want to use (this can be the same one you used before or a whole new password), and confirm your email address and username again on the CryptoStrikers website.
+如果你需要重新安装MetaMask钱包，请按照以下步骤：删除MetaMask扩展程序，重新下载安装，导入助记词。 然后设置密码（新密码可以和旧密码一致）并在加密球星的网站上重新确认邮箱和昵称。
 
-**What’s ether (ETH)? Why do I need it to play CryptoStrikers?**
+**什么是以太币（ETH)？为什么玩加密球星要用到以太币?**
 
-Ether powers the Ethereum network, which is what CryptoStrikers is built on. Ether acts like any other currency, and its value fluctuates with the market.
+以太币是以太坊网络发行的数字货币，用于支持以太坊的发展。而加密球星正是基于以太坊开发。
 
-You need to convert your currency (e.g. USD, CAD, GBP, etc.) into Ether to pay for player cards and other items available through our application.
+你需要将你的法币兑换成以太币来购买游戏内的球员卡牌和其他道具。
 
-**Getting Ether**
+**获取以太币**
 
-**_For U.S. citizens only:_** From the CryptoStrikers web app, you can buy Ether (ETH) in MetaMask. ETH is the digital currency that enables CryptoStrikers to operate. Users who are accessing CryptoStrikers from a mobile wallet, or do not wish to use the Coinbase widget from the MetaMask browser extension, will need to purchase ETH as described below.
+**_仅针对美国玩家:_** 
+
+你可以在加密球星的网页上通过MetaMask购买以太币。通过手机钱包登录加密球星的玩家，或是不想通过Coinbase购买以太币的玩家，请查阅以下教程。
 
 ![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/metamask-eth.png)
 
-**_For everyone else:_** You will need to purchase ETH from an exchange, and then transfer the ETH from your exchange wallet to your MetaMask wallet. Unfortunately, you cannot play CryptoStrikers with only an exchange account.
+**_其他地区的玩家:_**  你需要通过交易所购买以太币，然后转入你的MetaMask钱包中。很遗憾，你不能直接使用交易所账号进入游戏。
 
-You cannot use USD/CAD to purchase player cards on CryptoStrikers—currencies need to be converted into ETH first.
+你不能使用法币在加密球星网站上直接购买球员卡片。请先将法币兑换成以太币。
 
-**How to send ETH to MetaMask**
+**如何将以太币转入MetaMask?**
 
-For U.S. citizens only: From the CryptoStrikers web app, you are able to purchase ETH directly from the MetaMask wallet using the Coinbase widget. This process does not require you to create another account; ETH you purchase will appear in your balance on MetaMask. Users who are accessing CryptoStrikers from a mobile wallet, or do not wish to use the Coinbase widget from the MetaMask browser extension, will need to transfer ETH to their MetaMask account as described below.
+仅针对美国玩家：你可以在加密球星的网站上通过MetaMask钱包直接使用Coinbase购买以太币，而无需重新创建一个新的账号。购买到以太币将会在余额中显示。通过手机钱包登录加密球星的玩家，或是不想通过Coinbase购买以太币的玩家，请查阅以下教程将以太币转入MetaMask。
 
-For everyone else: You need to buy ETH from an exchange using normal fiat currency. Copy your MetaMask address by clicking on the copy icon‘’ next to your account. Go to your exchange, click ‘Accounts’, and select your ETH Wallet and click ‘send’. Paste the MetaMask address in the box with the amount you’d like to transfer.
+其他地区的玩家：你可以在交易所用法币购买够以太币。第一步复制你的钱包地址（点击账号旁边的复制按钮）。然后登陆交易所，点击账户，然后选中以太币账户，点击发送。最后将复制的MetaMask地址粘贴进去，填写金额即可。
 
 [![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/metamask-eth-global.png)](https://www.youtube.com/watch?v=PtdMDtCVck0)
 
-**What is ‘gas’?**
+**什么是Gas?**
 
-‘Gas’ is a shorthand used to describe the cost of powering a transaction or contract in Ethereum, which is the blockchain network that CryptoStrikers is built on.
+Gas 翻译成中文就是“燃气”，是以太坊世界的燃料，它决定了以太坊网络生态系统的正常运行。
 
-Because the blockchain is decentralized, and not powered via a central server, every transaction needs to be verified through a process called ‘mining’. This process ensures each token—in this case, each CryptoStrikers card—is secure. However, verifying transactions requires computational power - gas costs are fees used to compensate individuals for computational processing. 
+Gas 用来衡量执行某些动作需要多少“工作量”，这些“工作量”就是为了执行该动作支付给网络的费用额。
 
-Gas costs are typically expressed in gwei (1 million gwei = 1 ether/ETH). 
+Gas费用通常用gwei 来表示 (1百万gwei = 1 ether/ETH).
 
-For a more detailed explanation, please read this [overview](https://ethgas.io).
+了解更详细说明，[请参阅概述] (https://ethgas.io).
 
-**When do I need to pay ‘gas’?**
+**什么时候需要付Gas费用?**
 
-You must pay gas for any transaction that is recorded on the blockchain. In the context of this game, such transactions include, but are not limited to: buying cards, selling cards, gifting cards, and claiming prizes.
+对于每一项纪录在区块链上的交易，你都要付Gas费。就游戏内而言，这些交易包括，购买卡牌，出售卡牌，赠送卡牌和领取奖励。
 
-**Why is it so complicated to get started with CryptoStrikers?**
+**为什么玩加密球星这么复杂?**
 
-CryptoStrikers is built on blockchain technology, which is relatively new technology. Tools for users are still in their infancy. The technology platform is safe and secure, but it’s going to be a little complicated until tools are created to make it easier to build easy-to-use consumer experiences.
+加密球星使用了区块链技术，基于以太坊运行。相对而言这是一项新的技术，很多地方还不完善，因此显得相对复杂。相信等以太坊发展成熟，会给玩家带来更好的游戏体验。
 
 ## Buying and selling
 
