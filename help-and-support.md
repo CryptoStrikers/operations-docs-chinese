@@ -1,108 +1,106 @@
-# Help and Support
+# 帮助与支持
 
-**_Note: Please contact us directly at any time on our #support channel on [Discord](https://discord.gg/7CSBBBb)._**
+**_注：请通过 [Discord](https://discord.gg/7CSBBBb) 的#support channel支持频道，随时联系我们。._**
 
-## Help with CryptoStrikers
+## 加密球星帮助
 
-**I can’t get figure out how to get CryptoStrikers cards**
+**我不知道怎么获得加密球星卡牌**
 
-There are a few ways to get new cards. You can either buy a pack of cards, buy a single card from the Marketplace, or ask another user to gift you a card. You will need Ether to buy packs or cards - you can learn more about how to get Ether here.
+获取新卡牌的方式有以下几种。你可以通过购买卡包获得，或者前往交易市场购买单张卡牌，也可以让其他人将卡牌赠送给你。购买卡包或者卡牌会需要以太币。你可以在这里了解如何获取以太币。
 
-**Can you recover my lost CryptoStrikers cards? I can’t access my wallet.**
+**你能帮我找回我的球员卡牌吗？我登不上钱包了**
 
-Unfortunately, we cannot.
+很不幸，我们不能。
 
-If you lose access to your MetaMask wallet, we cannot recover your card. It’s not an issue of it being against our policy or difficulty; it is simply not possible.
+如果你丢失了MetaMask钱包的登录信息，我们是没有办法帮你找回你的卡牌的。这不是游戏的规定或者是恢复难度的问题，而且确实没有办法找回。
 
-Our smart contracts secure each card so that our technical team can’t edit, access, or reassign them. This protects your cards from hackers and anyone else who would steal them. Unfortunately, it also means we can’t simply ‘recover’ any cards that you lose.
+我们的智能合约保证了每张卡牌的安全性，我们的技术团队无法编辑、获取或者重新设定。这也保证了你的卡牌不会被黑客盗走。不过这也意味着，一旦你丢失卡牌，我们也没办法找回。
 
-**I can’t sign up / log in from my computer**
+**我的电脑不能注册/登录**
 
-Trouble signing in can usually be fixed by:
+可以尝试一下方式解决：
 
-(1) Make sure you’re using the browser for which you downloaded the Metamask extension.
+(1) 请确保的你的浏览器支持并安装了MetaMask钱包。
 
-(2) Sign in and out of MetaMask before attempting to log in.
+(2) 登入游戏前，先注销并重新登入MetaMask。
 
-(3) If you’re using a different computer than the one you originally registered on, you need to copy your MetaMask seed phrase from the old computer to the new computer to ensure you have the same secure keys.
+(3) 如果你用的不是注册时使用的电脑，那么你需要通过助记词导入之前的MetaMask账号
 
-These steps solve login problems for most people, but if you still have problems, please contact us directly at support@cryptostrikers.com or on our #support channel on Discord.
+多数情况下，以上步骤能够解决问题。如果还是无法注册或登入，请通过邮箱 support@cryptostrikers.com 或 [Discord](https://discord.gg/7CSBBBb) 的支持频道联系我们。
 
-**I can’t log in from a new computer**
+**我用新电脑不能登入游戏**
 
-You can use CryptoStrikers from multiple computers as long as you have MetaMask installed on both, with the same secure keys. When you log in to MetaMask on a new computer, it will request your Seed Phrase for verification. Copy your MetaMask seed phrase from the old computer to the new computer to ensure you have the same secure keys.
+只要保证新电脑上的MetaMask账号与旧电脑上的一致，你就能通过多个电脑登入加密球星。当然通过新电脑登入MetaMask钱包时，你需要助记词进行验证。复制旧电脑上的MetaMask助记词并粘贴到新电脑的MetaMask中即可。
 
-Don’t worry about your email or username. If you have the same secret keys on different computers, CryptoStrikers will know you’re the same user and show you all the same info (and your cards).
+不用担心邮箱和昵称。只要你是通过同一个MetaMask账号登录的，加密球星就能识别并展示所有信息。
 
-**I can’t log in from a mobile device**
+**我不能通过手机登录**
 
-If you are logging to our website through your mobile phone, only the Firefox browser for Android supports the MetaMask add-on. Please download either the Cipher Browser, Toshi, or Trust Walletmobile apps to access our website. For more info on how to use these apps, check out our mobile guide.
+如果你是通过手机登录我们的网站，只有安卓版火狐支持MetaMask扩展程序。请在手机上下载安装Cipher、Thoshi浏览器，或者Trust钱包后再访问我们的网站。了解更多信息，请参阅我们的移动端指南。
 
-**Can you transfer my cards to another address**
+**我能把卡牌发送到另一个地址吗?**
 
-First, we should explain that your CryptoStrikers username is linked to your wallet address. Therefore, we cannot merge addresses or transfer kitties, but the good news is you can thanks to the blockchain.
+你可以前往个人界面免费把任意一张卡片赠送到你的其他地址，不过这一操作需要花费一定的Gas费用。
 
-You can go to your profile page and gift any of your cards to your other address (the one you'd like to keep using) for free, just covering the gas fee that the Ethereum network charges for processing your transaction.
+## 交易和以太坊帮助
 
-## Help with Transactions and Ethereum
+**怎么在Etherscan上查到我在加密球星中的交易信息?**
 
-**How does Etherscan work with my CryptoStrikers transactions?**
+在活动中心那里，你可以看到你在加密球星中执行的每一项交易的验证链接。点击任意一条链接，你就能在Etherscan查看并验证所有相关信息。
 
-Etherscan serves as a search engine that allows users to easily lookup, confirm, and validate transactions that have taken place on the Ethereum Blockchain. In your Activity Feed, you will see verification links next to every transaction that you execute on CryptoStrikers. If you click any link, you will be taken to Etherscan to verify information relating to the specific transaction.
+**我的交易一直失败**
 
-**My transactions keep failing**
+如果你的交易一直失败的话，请邮件联系我们 support@cryptostrikers.com。我们会进一步帮你查明原因。
 
-If your transactions are failing consistently for a long period of time, please contact us at support@cryptostrikers.com so we can further investigate the source of the problem.
+**交易超时，但是却成功了**
 
-**A transaction timed out but was successful**
+当一项交易显示超时，并不意味着这项交易已经失败，只是说明现在的网络很拥堵。所以，加密射手不会更新信息，知道订单状态最终被网络确认。
 
-When a transaction ‘times out’, it doesn’t mean the transaction has failed, only that network is very busy. As a result, CryptoStrikers won’t update until the transaction is finalized in the network.
+这种情况通常会在Gas价格过低或者网络异常拥堵的情况下发生。
 
-This can occur because of low gas prices or a spike in network congestion.
+**交易失败并收走了我的Gas费用**
 
-**A transaction failed and took my gas fee**
+很抱歉你的交易失败了。但这是区块链作为去中心化平台的特质，也是区块链为什么这么安全的原因。虽然交易失败，但是你还是需要付Gas费用。
 
-Sorry to hear your transaction failed. Such is the nature of the blockchain as a decentralized platform; it’s also the reason why it’s so secure. When a transaction fails, unfortunately you still have to pay the gas fee.
+了解更多过于区块链费用的内容，[请参阅](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369).
 
-For more info, [this article](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) explains how the Ethereum blockchain handles fees.
+**我的交易失败了，但是还是被收费了。我可以申请退款吗?**
 
-**My transaction failed but I was charged. Can I get a refund?**
+很抱歉你的交易发生了问题。但是我们也没有办法退款，因为我们根本就没有收到款项。
 
-We’re sorry you’re having trouble with transactions. But unfortunately, there is no way for us to refund your Ether as we were never holding your funds.
+加密球星是在以太坊上运行的一系列智能合约。这保证了你对加密球星球员卡牌绝对的所有权。但是，这也意味你的交易是超出我们的控制范围的。
 
-CryptoStrikers is a series of smart contracts that run on a decentralized network - Ethereum. This offers the unique benefits of you being able to own your CryptoStrikers cards. However, it also means that any transaction you conduct is beyond our control. We are the facilitators and interface for you to interact with MetaMask and Ethereum respectively, but we have no control over the transactions being processed.
+当与区块链交互时，请记住Gas价格是以太坊网络处理交易收取的费用。基于你给的Gas价格的高低，你的交易可能会失败或成功，但无论结果如何这一费用都会被收取。
 
-When interacting with the blockchain, remember that the gas price is the fee that the Ethereum network charges for processing transactions. Depending on the price you set for it, the transaction can fail or succeed, and the gas will be charged by the network for processing the transaction regardless of its result. We can think about it as the fee the users pay for attempting to execute transactions in the decentralized network.
+**什么是Gas?**
 
-**What is Gas?**
+Gas是以太坊网络用于测算一项操作复杂程度的单位。Gas越高意味着网络需要处理的计算越复杂。你无法选择执行交易所需要的Gas量。
 
-‘Gas’ is a unit used by the Ethereum network to measure how complex an action is. A transaction that needs a lot of gas is more complex for the network to process than a transaction that needs less gas. You don’t get to choose how much gas your transaction uses.
+但是，你可以选择Gas价格。虽然这会影响到你的交易总费用，但是它能使你的交易更快的被处理。以太坊中，Gas价格高的交易会被优先处理。
 
-You can choose the ‘gas price’, which effects the total cost of your transactions, but makes them more likely to get processed quickly. Transactions in the Ethereum network are almost always processed in order of the most expensive first.
+在 [这里](https://ethgas.io)查看更多关于Gas及其效果的内容。
 
-Read more about gas and its effects on transactions [here](https://ethgas.io).
+**我没有收到出售卡牌获得的以太币**
 
-**I didn’t receive Ether for a sale**
+如果你成功出售了卡牌，那么另一个玩家一定会支付以太币。但是由于对方是通过我们的智能合约支付的，所以这个交易不会在Etherscan上以 IN/OUT的形式展示出来。你可以点击我们只能合约的内部交易查看。
 
-If you successfully sold a card, the other user definitely sent you Ether. However, since the user paid for the sale through our smart contract, the payment is not reflected as a typical IN/OUT transaction in Etherscan. To see the Ether generated from CryptoStrikers sales, check the Internal Transactions tab in Etherscan.
+**我想取消交易，但是没有成功**
 
-**I want to cancel a transaction... But it won’t work**
+我们的网站上有取消交易的选项，但是有时候交易已经发送到了以太坊区块链上，就无法取消了。
 
-Sorry to hear you’re having trouble with transactions. There's an option to cancel the transaction on our website, but sometimes it's too late to do that since the transaction has already been sent to the Ethereum blockchain.
+## MetaMask帮助
 
-## Help with MetaMask
+**为什么MetaMask这么慢?**
 
-**Why is MetaMask being so slow?**
+如果你同时开着很多页面的话是会拖慢MetaMask的速度的。只需要关掉暂时不用的网页即可。
 
-If you have a lot of tabs open, MetaMask will suffer memory leaks and slow down. To fix this issue, close all your tabs, restart the browser, and performance should improve.
+**你能修改我的MetaMask地址或者密码吗?**
 
-**Can you change my MetaMask address or password?**
+我们很抱歉你无法登入原有的MetaMask账号。但是，我们也无能为力。加密球星的用户名与你的钱包地址是绑定，因此一旦丢失钱包的登录信息，我们也没有办法帮你找回卡牌。
 
-We are sorry to hear that you lost access to your Metamask account, however, this is something that we cannot help you with. Your CryptoStrikers username is linked to your wallet address, not to your email or username. That is because your cards are stored in the wallet, not our databases.
+在 [这里](https://support.metamask.io/kb/article/28-abbu-always-be-backed-up-how-to-make-sure-your-12-word-metamask-seed-phrase-is-backed-up) 查看更多关于MetaMask安全性的内容。
 
-Read more about the nature of the MetaMask security [here](https://support.metamask.io/kb/article/28-abbu-always-be-backed-up-how-to-make-sure-your-12-word-metamask-seed-phrase-is-backed-up).
+我们建议你和MetaMask联系，询问有没有解决方案。不过很不幸的是，为了防止其他人控制你的私钥，你的助记词是没有办法恢复的。
 
-We understand this may be harsh news, so we encourage you to request support from MetaMask [here](https://support.metamask.io/new) to see if there's a potential solution. Unfortunately, your Seed Phrase is intended to be unrecoverable by nature, to avoid anyone else from taking control of your secure keys.
-
-If none of the above has been helpful, please contact us with the details of your issue at support@cryptostrikers.com. Please include any relevant tx hashes, links, and card IDs so we can support you as quickly as possible. You can also check out our #support channel on [Discord](https://discord.gg/7CSBBBb).
+如果以上对你问题没有帮助，请联系我们邮 support@cryptostrikers.com. 并注明交易哈希，链接，卡牌ID以便我们能更好的帮助你解决问题。你可以查看我们的 [Discord](https://discord.gg/7CSBBBb) 上的支持频道。
 
