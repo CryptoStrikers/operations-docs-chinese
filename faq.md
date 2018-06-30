@@ -227,34 +227,36 @@ Gas费用通常用gwei 来表示 (1百万gwei = 1 ether/ETH).
 
 你可以在这里查看邀请返利的条件和规则。
 
-## Other
+## 其他
 
-**Are CryptoStrikers cards like Bitcoin?**
+**加密球星的卡牌与比特币类似吗?**
 
-CryptoStrikers cards are not a cryptocurrency nor are they a token affiliated with an ICO. They’re what is commonly referred to as a ‘cryptocollectible’. The real-world analogy for a cryptocurrency is dollars or pounds; a cryptocollectible real world analogy is closer to assets like baseball cards.
+加密球星的卡牌不是加密货币也不是ICO的代币。它们只是加密收藏品。与现实世界类别，加密货币相当于美元或者英镑，而加密收藏品则相当于棒球卡牌。
 
-As programmed and managed by smart contracts, any CryptoStrikers card that you own belongs to you. The price of any card is determined by market demand, scarcity, and your asking price.
+因为由智能合约控制，所以任何加密球星球员卡牌都100%属于你。卡牌的价格取决市场需求，稀有度以及你的心理价位。
 
-**Why can’t I see my sale on Etherscan?**
+**为什么我在Etherscan上看不到我的出售记录?**
 
-Payments for sales are called “internal transactions” on Etherscan. These transactions are listed on their own tab.
+在Etherscan上，出售的记录被称为内部交易。这些交易会在它们自己的页签上显示。
 
-**Is this a scam?**
+**这是个骗局吗?**
 
-No, this isn’t a scam. Our two person CryptoStrikers team is not allowed to directly participate in this game. We have also installed safeguards wherever possible to limit manipulation by bad actors.
+不，这不是一个骗局。加密球星的2人开发团队是不允许自己直接参加到这个游戏中的。我们还安装了保障措施来防止恶意操作。
 
-**Can I use a Credit Card to play CryptoStrikers?**
+**我能用信用卡玩加密球星吗?**
 
-No, the technology isn’t available yet to support credit card transactions.. However, most exchanges do let you buy Ether with a credit card.
+不可以的。区块链技术现在还不支持信用卡交易。
 
-**Can I play CryptoStrikers with my phone?**
+**加密球星手机上能玩吗?**
 
-Yes. While we have not launched a native mobile app at this time, you can play CryptoStrikers on a mobile phone via the Cipher Browser, Toshi, or Trust Wallet available on iOS or Android. Once you have set up an account on one of those services, use the mobile browser to navigate to www.cryptostrikers.com to play the game.
+可以的。在我们还没有发布原生的移动app之前，你可以在手机上下载Cipher、Toshi浏览器或者Trust钱包。 下载并安装完成后，输入 www.cryptostrikers.com 即可进入游戏。
 
-For more information on mobile options, please check out our mobile guide.
+了解更多移动端操作，请查阅移动端教程。
 
-**How do I reach the CryptoStrikers team regarding a project, partnership, investment opportunity, or other issue?**
+**我想要和加密球星团队合作，要怎么联系?**
 
-For partnership or other related opportunities, please email us at business@cryptostrikers.com.
+合作事宜请邮件联系我们：business@cryptostrikers.com.
 
-For any other issue, please contact us at support@cryptostrikers.com. For technical issues, please include any relevant tx hashes, links, and card IDs so we can support you as quickly as possible. You can also contact us on our #support channel on [Discord](https://discord.gg/7CSBBBb).
+其他问题请联系：support@cryptostrikers.com. 对于技术性问题，请注明相关交易哈希，链接和卡牌ID，以便我们能够快的帮助你解决问题，你也可以在我们Discord的#support channel支持频道联系我们。.
+
+其他问题请联系：support@cryptostrikers.com. 对于技术性问题，请注明相关交易哈希，链接和卡牌ID，以便我们能够快的帮助你解决问题，你也可以在我们 [Discord](https://discord.gg/7CSBBBb). #support channel支持频道联系我们。
