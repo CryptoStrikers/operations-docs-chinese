@@ -1,213 +1,211 @@
-# Player Distribution - Standard Pack
+# 球员分布 - 标准卡包
 
-**_We load Standard Packs into the smart contract in batches of 139 packs. The following represents the exact player distribution for each of these batches of 139 packs. The hard cap enforced by the smart contract prevents us from ever loading in more than 544 batches._**
+**_以下显示了标准卡包中每个玩家的球员分布。_**
 
-💎**Diamond**
+💎**钻石**
 
-#000 - Lionel Messi: 1 card
+#000 - 利昂内尔·梅西: 1张
 
-#001 - Cristiano Ronaldo: 1 card
+#001 -克里斯蒂亚诺·罗纳尔多: 1张
 
-#002 - Neymar: 1 card
+#002 - 内马尔: 1张
 
-#003 - Mohamed Salah: 1 card
+#003 - 穆罕默德·萨拉赫: 1张
 
-🏅**Gold**
+🏅**黄金**
 
-#004 - Robert Lewandowski: 2 cards
+#004 -罗伯特·莱万多夫斯基: 2张
 
-#005 - Kevin De Bruyne: 2 cards
+#005 - 凯文·德布劳内: 2张
 
-#006 - Luka Modrić: 2 cards
+#006 - 卢卡·莫德里奇: 2张
 
-#007 - Eden Hazard: 2 cards
+#007 - 艾登·阿扎尔: 2张
 
-#008 - Sergio Ramos: 2 cards
+#008 - 塞尔吉奥·拉莫斯: 2张
 
-#009 - Toni Kroos: 2 cards
+#009 - 托尼·克罗斯: 2张
 
-#010 - Luis Suárez: 2 cards
+#010 - 路易斯·苏亚雷斯: 2张
 
-#011 - Harry Kane: 2 cards
+#011 -哈里·凯恩 : 2张
 
-#012 - Sergio Agüero: 2 cards
+#012 - 塞尔希奥·阿奎罗: 2张
 
-#013 - Kylian Mbappé: 2 cards
+#013 - 基利安·姆巴佩: 2张
 
-#014 - Gonzalo Higuaín: 2 cards
+#014 - 冈萨洛·伊瓜因: 2张
 
-#015 - David de Gea: 2 cards
+#015 - 大卫·德赫亚: 2张
 
-#016 - Antoine Griezmann: 2 cards
+#016 - 安托万·格里兹曼: 2张
 
-#017 - N'Golo Kanté: 2 cards
+#017 - 恩戈洛·坎特: 2张
 
-#018 - Edinson Cavani: 2 cards
+#018 - 埃丁森·卡瓦尼: 2张
 
-#019 - Paul Pogba: 2 cards
+#019 - 保罗·博格巴: 2张
 
-🥈**Silver**
+🥈**白银**
 
-#020 - Isco: 4 cards
+#020 - 伊斯科: 4张
 
-#021 - Marcelo: 4 cards
+#021 - 马塞洛: 4张
 
-#022 - Manuel Neuer: 4 cards
+#022 - 曼努埃尔·诺伊尔: 4张
 
-#023 - Dries Mertens: 4 cards
+#023 - 德赖斯·梅滕斯: 4张
 
-#024 - James Rodríguez: 4 cards
+#024 - 哈梅斯·罗德里格斯: 4张
 
-#025 - Paulo Dybala: 4 cards
+#025 - 保罗·迪巴拉: 4张
 
-#026 - Christian Eriksen: 4 cards
+#026 - 克里斯蒂安·埃里克森: 4张
 
-#027 - David Silva: 4 cards
+#027 - 大卫·席尔瓦: 4张
 
-#028 - Gabriel Jesus: 4 cards
+#028 - 加布里埃尔·赫苏斯: 4张
 
-#029 - Thiago: 4 cards
+#029 - 蒂亚戈: 4张
 
-#030 - Thibaut Courtois: 4 cards
+#030 - 蒂博·库尔图瓦: 4张
 
-#031 - Philippe Coutinho: 4 cards
+#031 - 菲利佩·库蒂尼奥: 4张
 
-#032 - Andrés Iniesta: 4 cards
+#032 - 安德烈斯·伊涅斯塔: 4张
 
-#033 - Casemiro: 4 cards
+#033 - 卡塞米罗: 4张
 
-#034 - Romelu Lukaku: 4 cards
+#034 - 罗梅卢·卢卡库: 4张
 
-#035 - Gerard Piqué: 4 cards
+#035 - 杰拉德·皮克: 4张
 
-#036 - Mats Hummels: 4 cards
+#036 - 马茨·胡梅尔斯: 4张
 
-#037 - Diego Godín: 4 cards
+#037 - 迭戈·戈丁: 4张
 
-#038 - Mesut Özil: 4 cards
+#038 - 梅苏特·厄齐尔: 4张
 
-#039 - Son Heung-min: 4 cards
+#039 - 孙兴慜: 4张
 
-#040 - Raheem Sterling: 4 cards
+#040 - 拉希姆·斯特林: 4张
 
-#041 - Hugo Lloris: 4 cards
+#041 - 雨果·洛里斯: 4张
 
-#042 - Radamel Falcao: 4 cards
+#042 - 拉达梅尔·法尔考: 4张
 
-#043 - Ivan Rakitić: 4 cards
+#043 - 伊万·拉基蒂奇: 4张
 
-#044 - Leroy Sané: 4 cards
+#044 - 勒鲁瓦·萨内: 4张
 
-#045 - Roberto Firmino: 4 cards
+#045 - 罗伯托·菲尔米诺: 4张
 
-#046 - Sadio Mané: 4 cards
+#046 - 萨迪奥·马内: 4张
 
-#047 - Thomas Müller: 4 cards
+#047 - 托马斯·穆勒: 4张
 
-#048 - Dele Alli: 4 cards
+#048 - 德利·阿里: 4张
 
-#049 - Keylor Navas: 4 cards
+#049 - 凯洛尔·纳瓦斯: 4张
 
-🥉**Bronze**
+🥉**青铜**
 
-#050 - Thiago Silva: 8 cards
+#050 - 蒂亚戈·席尔瓦: 8张
 
-#051 - Raphaël Varane: 8 cards
+#051 - 拉斐尔·瓦拉内: 8张
 
-#052 - Ángel Di María: 8 cards
+#052 - 安赫尔·迪马利亚: 8张
 
-#053 - Jordi Alba: 8 cards
+#053 - 约尔迪·阿尔巴: 8张
 
-#054 - Medhi Benatia: 8 cards
+#054 - 梅迪·贝纳蒂亚: 8张
 
-#055 - Timo Werner: 8 cards
+#055 - 蒂莫·维尔纳: 8张
 
-#056 - Gylfi Sigurðsson: 8 cards
+#056 - 吉尔维·西于尔兹松: 8张
 
-#057 - Nemanja Matić: 8 cards
+#057 - 内马尼亚·马蒂奇: 8张
 
-#058 - Kalidou Koulibaly: 8 cards
+#058 - 卡利杜·库利巴利: 8张
 
-#059 - Bernardo Silva: 8 cards
+#059 - 伯纳多·席尔瓦: 8张
 
-#060 - Vincent Kompany: 8 cards
+#060 - 文森特·孔帕尼: 8张
 
-#061 - João Moutinho: 8 cards
+#061 - 若奥·穆蒂尼奥: 8张
 
-#062 - Toby Alderweireld: 8 cards
+#062 - 托比·阿尔德韦雷尔德: 8张
 
-#063 - Emil Forsberg: 8 cards
+#063 - 埃米尔·福斯贝里: 8张
 
-#064 - Mario Mandžukić: 8 cards
+#064 - 马里奥·曼祖基奇: 8张
 
-#065 - Sergej Milinković-Savić: 8 cards
+#065 - 谢尔盖·米林科维奇-萨维奇: 8张
 
-#066 - Shinji Kagawa: 8 cards
+#066 - 香川真司: 8张
 
-#067 - Granit Xhaka: 8 cards
+#067 - 格拉尼特·扎卡: 8张
 
-#068 - Andreas Christensen: 8 cards
+#068 - 安德烈亚斯·克里斯滕森: 8张
 
-#069 - Piotr Zieliński: 8 cards
+#069 - 彼得·杰林斯基: 8张
 
-#070 - Fyodor Smolov: 8 cards
+#070 - 费多尔·斯莫罗夫: 8张
 
-#071 - Xherdan Shaqiri: 8 cards
+#071 - 杰尔丹·沙奇里: 8张
 
-#072 - Marcus Rashford: 8 cards
+#072 - 马库斯·拉什福德: 8张
 
-#073 - Javier Hernández: 8 cards
+#073 - 哈维尔·埃尔南德斯: 8张
 
-#074 - Hirving Lozano: 8 cards
+#074 - 希尔文·洛萨诺: 8张
 
-#075 - Hakim Ziyech: 8 cards
+#075 - 哈基姆·齐耶什: 8张
 
-#076 - Victor Moses: 8 cards
+#076 - 维克托·莫塞斯: 8张
 
-#077 - Jefferson Farfán: 8 cards
+#077 - 杰弗森·法尔范: 8张
 
-#078 - Mohamed Elneny: 8 cards
+#078 - 穆罕默德·埃尔内尼: 8张
 
-#079 - Marcus Berg: 8 cards
+#079 - 马库斯·贝里: 8张
 
-#080 - Guillermo Ochoa: 8 cards
+#080 - 吉列尔莫·奥乔亚: 8张
 
-#081 - Igor Akinfeev: 8 cards
+#081 - 伊戈尔·阿金费耶夫: 8张
 
-#082 - Sardar Azmoun: 8 cards
+#082 - 萨达尔·阿兹蒙: 8张
 
-#083 - Christian Cueva: 8 cards
+#083 - 克里斯蒂安·奎瓦: 8张
 
-#084 - Wahbi Khazri: 8 cards
+#084 - 瓦赫比·哈兹里: 8张
 
-#085 - Keisuke Honda: 8 cards
+#085 - 本田圭佑: 8张
 
-#086 - Tim Cahill: 8 cards
+#086 - 蒂姆·卡希尔: 8张
 
-#087 - John Obi Mikel: 8 cards
+#087 - 米克尔·约翰: 8张
 
-#088 - Ki Sung-yueng: 8 cards
+#088 - 奇诚庸: 8张
 
-#089 - Bryan Ruiz: 8 cards
+#089 - 布莱恩·鲁伊斯: 8张
 
-#090 - Maya Yoshida: 8 cards
+#090 - 吉田麻也: 8张
 
-#091 - Nawaf Al Abed: 8 cards
+#091 - 纳瓦夫·阿比德: 8张
 
-#092 - Lee Chung-yong: 8 cards
+#092 - 李青龙: 8张
 
-#093 - Gabriel Gómez: 8 cards
+#093 - 加布里埃尔·戈麦斯: 8张
 
-#094 - Naïm Sliti: 8 cards
+#094 - 纳伊姆·斯利蒂: 8张
 
-#095 - Reza Ghoochannejhad: 8 cards
+#095 - 礼萨·古钱内贾德: 8张
 
-#096 - Mile Jedinak: 8 cards
+#096 - 米勒·耶迪纳克: 8张
 
-#097 - Mohammad Al-Sahlawi: 8 cards
+#097 - 穆罕默德·萨赫拉维: 8张
 
-#098 - Aron Gunnarsson: 8 cards
+#098 - 阿隆·古纳尔森: 8张
 
-#099 - Blas Pérez: 8 cards
-
-
+#099 - 布拉斯·佩雷斯: 8张
